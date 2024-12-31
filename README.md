@@ -36,7 +36,7 @@ I'm Hossein, Software Engineer, Blockchain Engineer, and am eager to diving deep
 </p>
 
 ## ✍️ Writing
-Sometimes I publish articles! Check out my take on consensus algorithms in my article:
+Every once in a while I publish articles on medium! Check out my take on consensus algorithms in my article:
 [What are Consensus Algorithms - Part 1](https://medium.com/@syhsamiei/what-are-consensus-algorithms-part1-80a97a45df24)
 
 ## 🔗 Connect
